@@ -1,4 +1,4 @@
-[![Tanuki's Dream Logo](img/Thumbnail (1).png)](https://s4g.itch.io/tanukis-dream)
+[![Tanuki's Dream Logo](img/TanukisDreamLogo.png)](https://s4g.itch.io/tanukis-dream)
 
 # Tanuki's Dream (3rd Semester Student Project)
 
